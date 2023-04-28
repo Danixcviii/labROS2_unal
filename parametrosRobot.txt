@@ -1,0 +1,6 @@
+ ID 1: Limites: [-150 150] Home: 150
+ ID 2: Limites:[-160,0] Home:240
+ ID 3: Limites:[-35,155] Home: 60
+ ID 4: Limites :[0 190] Home:60
+ ID 5: open: 145 close:43
+ 
